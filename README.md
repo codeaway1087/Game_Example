@@ -1,3 +1,6 @@
-# Game_Example
-GAE Game Project Layout
-changes
+#Sharing file for project layout
+
+
+
+
+
