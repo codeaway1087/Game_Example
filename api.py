@@ -27,8 +27,6 @@ from models.user import (
 from models.inventory import Inventory
 from dict_list import (
     items, 
-    craft, 
-    crafty, 
     gamecheck,
     invenOfCraft
     )
